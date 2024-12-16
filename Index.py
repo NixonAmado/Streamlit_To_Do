@@ -97,7 +97,7 @@ def completedTasksList():
 
 
 if __name__ == "__main__":
-    st.title("TO DOhttps://github.com/NixonAmado/Streamlit_To_Do")
+    st.title("TO DO https://github.com/NixonAmado/Streamlit_To_Do")
 
     with st.expander("Tareas pendientes"):
         pendingTasksList()
